@@ -34,7 +34,7 @@ lib/
 ## Instalación
 1. Clona este repositorio:
    ```sh
-   git clone https://github.com/jmelendez07/flutter-todo
+   git clone https://github.com/jmelendez07/flutter-todo.git
    ```
 2. Navega al directorio del proyecto:
    ```sh
